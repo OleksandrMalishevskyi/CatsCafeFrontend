@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  baseURL: 'https://catcafe.onrender.com/api/'
+  // baseURL: 'https://catcafe.onrender.com/api/'
 };
 
 /*
