@@ -1,0 +1,14 @@
+{
+  "/api/*": {
+    "target": "https://catscafebackend.onrender.com/",
+    "secure": false,
+    "logLevel": "debug",
+    "changeOrigin": true
+  },
+  "/uploads/*": {
+    "target": "https://catscafebackend.onrender.com/",
+    "secure": false,
+    "logLevel": "debug",
+    "changeOrigin": true
+  }
+}
